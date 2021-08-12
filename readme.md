@@ -1,3 +1,3 @@
 my read me file.
 
-[Click Here](first_markdown.Rmd)
+[Click Here](first_markdown.md)
